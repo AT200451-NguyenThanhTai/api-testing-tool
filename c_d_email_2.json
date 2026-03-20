@@ -1,0 +1,6 @@
+{
+  "name": "Invalid Email Test",
+  "email": "invalid_email_format",
+  "gender": "male",
+  "status": "active"
+}

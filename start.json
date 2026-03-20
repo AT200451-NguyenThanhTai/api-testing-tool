@@ -1,0 +1,72 @@
+[
+    {
+        "id": 8401779,
+        "name": "Pankaj G",
+        "email": "user1205@mail.com",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 8401671,
+        "name": "Anjaneya Chopra PhD",
+        "email": "chopra_phd_anjaneya@kemmer.example",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 8401670,
+        "name": "Msgr. Giri Gill",
+        "email": "giri_msgr_gill@ledner-tremblay.test",
+        "gender": "male",
+        "status": "inactive"
+    },
+    {
+        "id": 8401669,
+        "name": "Anuja Dutta",
+        "email": "dutta_anuja@altenwerth-stehr.example",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 8401668,
+        "name": "Sanka Talwar",
+        "email": "talwar_sanka@wyman.test",
+        "gender": "male",
+        "status": "inactive"
+    },
+    {
+        "id": 8401667,
+        "name": "Gautami Chopra LLD",
+        "email": "lld_chopra_gautami@sauer.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 8401666,
+        "name": "Marut Sethi",
+        "email": "marut_sethi@hirthe-jakubowski.example",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 8401665,
+        "name": "Satyen Tagore",
+        "email": "satyen_tagore@huels.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 8401664,
+        "name": "Dhananjay Jain",
+        "email": "jain_dhananjay@hackett.example",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 8401663,
+        "name": "Jagadisha Reddy",
+        "email": "jagadisha_reddy@strosin.test",
+        "gender": "female",
+        "status": "inactive"
+    }
+]

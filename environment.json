@@ -1,0 +1,8 @@
+{
+    "prod": {
+        "base_url": "https://gorest.co.in"
+    },
+    "environment": {
+        "env": "prod"
+    }
+}
